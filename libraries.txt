@@ -1,0 +1,2 @@
+WebFileManagerRelease/WebFileManager=v-1.0
+KeypadRelease/Keypad=v-1.0
