@@ -52,7 +52,7 @@ Each **release folder** contains the **ready-to-use source code** for the corres
 
 Matrix keypad driver for **MicroPython**.
 
-**Features**
+#### **Features**
 
 - Support for **4×3, 4×4, and M×N matrix keypads**
 - Multiple keypress detection
@@ -64,6 +64,21 @@ Matrix keypad driver for **MicroPython**.
 
 **Visit**
 https://github.com/TheZeroHz/keypad
+
+### IR Remote
+Cross Platform IR Remote driver for **MicroPython**.
+#### **Features**
+
+- Support for **NEC, Sony SIRC, RC-5, RC-6, Samsung NEC, and OrtekMCE protocols**
+- **Non-blocking IR signal reception**, compatible with uasyncio
+- **IR code sniffing and raw signal capture** for learning remotes
+- **Transmitter support** to emulate remote control buttons via IR LED
+- **Repeat and hold button detection** for continuous presses
+- **Configurable carrier frequency** (36–40 kHz) for transmission
+
+
+**Visit**
+https://github.com/peterhinch/micropython_ir
 
 ---
 
